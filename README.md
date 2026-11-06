@@ -1,6 +1,6 @@
 # Analog Signal Conditioning with a BJT and RC Filters
 
-A 9 V analog signal-conditioning prototype for the recovered audio in a simple AM receiver. The circuit combines input high-pass filtering, common-emitter voltage amplification, and output low-pass filtering. It was simulated in Proteus and built on both breadboard and perfboard for **IE2034 Analog Electronics, Group 11**.
+A 9 V analog signal-conditioning prototype for the recovered audio in a simple AM receiver. The circuit combines input high-pass filtering, common-emitter voltage amplification, and output low-pass filtering. It was simulated in Proteus and built on both breadboard and Dot Board for **IE2034 Analog Electronics, Group 11**.
 
 [Final assignment report](docs/analog-electronics-final-report.pdf) · [Proteus waveform capture](simulation/proteus-waveforms.png) · [Lab oscilloscope capture](measurements/oscilloscope-5khz.jpg)
 
@@ -24,9 +24,9 @@ For the bench capture, the [function generator](measurements/function-generator-
 
 ## Hardware prototypes
 
-| Breadboard | Perfboard |
+| Breadboard | Dot Board |
 | --- | --- |
-| [![Breadboard prototype with transistor, resistors, capacitors, and test leads](hardware/breadboard-prototype.jpg)](hardware/breadboard-prototype.jpg) | [![Soldered perfboard prototype viewed from the component side](hardware/perfboard-prototype.jpg)](hardware/perfboard-prototype.jpg) |
+| [![Breadboard prototype with transistor, resistors, capacitors, and test leads](hardware/breadboard-prototype.jpg)](hardware/breadboard-prototype.jpg) | [![Soldered Dot Board prototype viewed from the component side](hardware/perfboard-prototype.jpg)](hardware/perfboard-prototype.jpg) |
 
 ## Repository contents
 
@@ -34,7 +34,7 @@ For the bench capture, the [function generator](measurements/function-generator-
 | --- | --- |
 | [docs/](docs/) | Group 11 final assignment report with student IDs removed |
 | [simulation/](simulation/) | Proteus circuit schematic and waveform screenshots |
-| [hardware/](hardware/) | Breadboard and perfboard prototype photos |
+| [hardware/](hardware/) | Breadboard and Dot Board prototype photos |
 | [measurements/](measurements/) | Function generator settings and oscilloscope capture from the 5 kHz bench test |
 
 **Project team** · Viyashan K. and Lahinth M.
