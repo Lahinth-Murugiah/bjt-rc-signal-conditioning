@@ -27,14 +27,3 @@ For the bench capture, the [function generator](measurements/function-generator-
 | Breadboard | Dot Board |
 | --- | --- |
 | [![Breadboard prototype with transistor, resistors, capacitors, and test leads](hardware/breadboard-prototype.jpg)](hardware/breadboard-prototype.jpg) | [![Soldered Dot Board prototype viewed from the component side](hardware/dot-board-prototype.jpg)](hardware/dot-board-prototype.jpg) |
-
-## Repository contents
-
-| Path | Contents |
-| --- | --- |
-| [docs/](docs/) | Group 11 final assignment report with student IDs removed |
-| [simulation/](simulation/) | Proteus circuit schematic and waveform screenshots |
-| [hardware/](hardware/) | Breadboard and Dot Board prototype photos |
-| [measurements/](measurements/) | Function generator settings and oscilloscope capture from the 5 kHz bench test |
-
-**Project team** · Viyashan K. and Lahinth M.
