@@ -26,7 +26,7 @@ For the bench capture, the [function generator](measurements/function-generator-
 
 | Breadboard | Dot Board |
 | --- | --- |
-| [![Breadboard prototype with transistor, resistors, capacitors, and test leads](hardware/breadboard-prototype.jpg)](hardware/breadboard-prototype.jpg) | [![Soldered Dot Board prototype viewed from the component side](hardware/perfboard-prototype.jpg)](hardware/perfboard-prototype.jpg) |
+| [![Breadboard prototype with transistor, resistors, capacitors, and test leads](hardware/breadboard-prototype.jpg)](hardware/breadboard-prototype.jpg) | [![Soldered Dot Board prototype viewed from the component side](hardware/dot-board-prototype.jpg)](hardware/dot-board-prototype.jpg) |
 
 ## Repository contents
 
